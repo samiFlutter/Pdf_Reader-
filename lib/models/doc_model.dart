@@ -13,5 +13,10 @@ class DocModel {
         "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-sciences-se.pdf",
         "28-03-2023",
         10),
+    DocModel(
+        "drive",
+        "https://drive.google.com/file/d/1C75_yclWUpJp4yYg9i4iK8EoI8lqffXN/view",
+        "28-03-2023",
+        10),
   ];
 }
